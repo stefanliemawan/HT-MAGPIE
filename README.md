@@ -24,8 +24,3 @@ The repository is organized into the following main folders:
 ### `train/`
 
 - Houses all model training code and methods.
-
-## Contact
-
-For questions or collaborations, please contact:  
-[stefanliemawan@gmail.com](mailto:stefan.liemawan@gmail.com)
