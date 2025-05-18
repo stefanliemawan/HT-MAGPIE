@@ -1,5 +1,5 @@
 [project]
-name = "htm-almbc"
+name = "ht-magpie"
 version = "1.0.0"
 description = "Add your description here"
 readme = "README.md"
@@ -15,4 +15,5 @@ dependencies = [
     "transformers>=4.51.3",
     "keras==2.15.0",
     "tensorflow>=2.15.1",
+    "tqdm>=4.67.1",
 ]
